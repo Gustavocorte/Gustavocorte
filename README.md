@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo
+### Olá! Eu sou o Gustavo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
 
 <div align="center">
   <a href="https://github.com/Gustavocorte">
